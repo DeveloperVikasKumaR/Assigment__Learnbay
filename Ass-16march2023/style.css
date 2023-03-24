@@ -1,0 +1,35 @@
+*
+{
+    margin: 0px;
+}
+.main-container
+{
+    opacity: 0.9;
+    background-image: url(https://images.wallpaperscraft.com/image/single/street_city_road_117669_1280x720.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: center;
+
+
+}
+.main-container>p1
+{
+    /* display: flex; */
+    /* justify-content: center; */
+    font-size: 290px;
+    text-decoration: line-through;
+    color: rgb(250, 74, 74);
+    opacity: .8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main-container>p2
+{
+    /* display: flex; */
+    /* justify-content: center; */
+    font-size: 290px;
+    color: rgb(85, 252, 107);
+    opacity: .8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
